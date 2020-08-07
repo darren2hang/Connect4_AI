@@ -1,4 +1,4 @@
-# Connect4_AI
+# Connect 4 AI
 The Connect 4 AI class uses a recursive function to loop over the decision trees to a depth of 6. 
 
 The AI class also uses a minimax function and a heuristic function to find the best possible move.
